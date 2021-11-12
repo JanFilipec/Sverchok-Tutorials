@@ -5,4 +5,4 @@ First it finds relations between rectangular objects representing wall openings 
 Then it extrudes the 2d form and moves it to the correct elevation
 The resulting 3d model can be exported as an ifc to do a collision check.
 
-See: https://wiki.osarch.org/index.php?title=Blender_Topo_Mesh2XYZ
+See: https://wiki.osarch.org/index.php?title=Blender_2D_dxf_to_ifc
