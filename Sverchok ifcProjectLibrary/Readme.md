@@ -1,7 +1,7 @@
 # Sverchok Library
 A demo library of parametric Sverchok objects to be exported as ifcProjectLibrary. Currently not linked wit the library generator.
 
-# Sverchok parametric library
+# Sverchok parametric library generator
 ## Description
 A demo of our ifc library generator based on a BOLTS database. It has four parts:
 1. Sverchok interface - provides a basic input interface. You can load the BOLTS database as csv and filter the object you want to have in your ifc Library
